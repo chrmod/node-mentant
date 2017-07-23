@@ -1,0 +1,18 @@
+{
+  "name": "node-mentant",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrmod/node-mentant"
+  },
+  "author": "Krzysztof Jan Modras <chrmod@chrmod.net>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.1.18"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
